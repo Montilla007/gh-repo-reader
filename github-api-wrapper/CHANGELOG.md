@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.1...v1.1.2) (2025-12-07)
+
+
+### Bug Fixes
+
+* add checkout step in CI workflow ([36f519b](https://github.com/Montilla007/gh-repo-reader/commit/36f519b8f1647a269b26290ac28a29e3b9a76e09))
+
 ## [1.1.1](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.0...v1.1.1) (2025-12-07)
 
 
