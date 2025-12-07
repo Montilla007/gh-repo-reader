@@ -1,5 +1,5 @@
 {
-  "name": "gh-repo-reader",
+  "name": "@Montilla007/gh-repo-reader",
   "version": "1.0.0",
   "description": "A minimal GitHub repository reader with MVC architecture",
   "main": "index.js",
@@ -14,6 +14,9 @@
     "repositories",
     "mvc"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Montilla007",
   "license": "MIT",
   "devDependencies": {
