@@ -11,7 +11,7 @@ jobs:
     defaults:
       run:
         working-directory: github-api-wrapper
-        
+
     permissions:
       contents: write
       packages: write  # <-- needed for publishing to GitHub Packages
@@ -29,7 +29,7 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci
+        run: cd github-api-wrapper && npm ci
 
       - name: Run Semantic Release
         env:
