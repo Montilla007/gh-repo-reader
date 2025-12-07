@@ -11,6 +11,7 @@ jobs:
     defaults:
       run:
         working-directory: github-api-wrapper
+        
     permissions:
       contents: write
       packages: write  # <-- needed for publishing to GitHub Packages
