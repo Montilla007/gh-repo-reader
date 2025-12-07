@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.4...v1.1.5) (2025-12-07)
+
+
+### Bug Fixes
+
+* add @semantic-release/npm dependency ([94ea58c](https://github.com/Montilla007/gh-repo-reader/commit/94ea58cec22c91ca6263152bc788ebb634222a2f))
+
 ## [1.1.4](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.3...v1.1.4) (2025-12-07)
 
 
