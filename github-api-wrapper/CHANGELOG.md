@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.3...v1.1.4) (2025-12-07)
+
+
+### Bug Fixes
+
+* test release and publish ([650c7d4](https://github.com/Montilla007/gh-repo-reader/commit/650c7d4a61bc830cc7b84848b4d3cd7b960dd5bf))
+
 ## [1.1.3](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.2...v1.1.3) (2025-12-07)
 
 
