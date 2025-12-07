@@ -1,3 +1,13 @@
+## [1.1.3](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.2...v1.1.3) (2025-12-07)
+
+
+### Bug Fixes
+
+* add cache-dependency-path for npm caching in release workflow ([5d0e56d](https://github.com/Montilla007/gh-repo-reader/commit/5d0e56dd6ab4be29166e70efd3b7ce28306c06ae))
+* correct working directory for npm install in release workflow ([853bdad](https://github.com/Montilla007/gh-repo-reader/commit/853bdad74f1657c9ff370b88d57caaece2eb8deb))
+* update package name in package-lock.json to include scope ([abf4be0](https://github.com/Montilla007/gh-repo-reader/commit/abf4be05388d6f23fc78038845cdab550a69cceb))
+* update release workflow and add npm configuration for GitHub Packages ([3b93c66](https://github.com/Montilla007/gh-repo-reader/commit/3b93c662b38b92e4ebc27f10781496e760d2fc59))
+
 ## [1.1.2](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.1...v1.1.2) (2025-12-07)
 
 
