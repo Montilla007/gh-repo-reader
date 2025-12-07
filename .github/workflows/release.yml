@@ -8,24 +8,31 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
-
+    defaults:
+      run:
+        working-directory: github-api-wrapper
+        
     permissions:
       contents: write
-      packages: write # <-- needed for publishing to GitHub Packages
+      packages: write  # <-- needed for publishing to GitHub Packages
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: "npm"
+          cache: 'npm'
 
-      - run: cd github-api-wrapper && npm ci
+      - name: Install dependencies
+        run: npm ci
 
-      - run: cd github-api-wrapper && npx semantic-release
+      - name: Run Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          NODE_AUTH_TOKEN: ${{ secrets.GH_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.GH_TOKEN }} # <-- needed for npm publish
+        run: npx semantic-release
