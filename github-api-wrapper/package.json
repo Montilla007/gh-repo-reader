@@ -1,6 +1,6 @@
 {
   "name": "@Montilla007/gh-repo-reader",
-  "version": "1.0.0",
+  "version": "1.1.6",
   "description": "A minimal GitHub repository reader with MVC architecture",
   "main": "index.js",
   "type": "commonjs",

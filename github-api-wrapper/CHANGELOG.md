@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.5...v1.1.6) (2025-12-07)
+
+
+### Bug Fixes
+
+* ensure npm is published during release process ([7c3b741](https://github.com/Montilla007/gh-repo-reader/commit/7c3b74124547af065a9806562abb1ab5701fd6de))
+
 ## [1.1.5](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.4...v1.1.5) (2025-12-07)
 
 
