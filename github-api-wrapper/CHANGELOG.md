@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.0...v1.1.1) (2025-12-07)
+
+
+### Bug Fixes
+
+* update Node.js version and checkout action in CI workflow ([7fbaace](https://github.com/Montilla007/gh-repo-reader/commit/7fbaacec425c548913001fcec9964f524dd30e75))
+
 # [1.1.0](https://github.com/Montilla007/gh-repo-reader/compare/v1.0.0...v1.1.0) (2025-12-07)
 
 
