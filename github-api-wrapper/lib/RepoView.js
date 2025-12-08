@@ -1,8 +1,3 @@
-/**
- * RepoView
- * Formats and displays repositories in CLI/console
- */
-
 class RepoView {
     static listAll(repos) {
         repos.forEach((repo, index) => {

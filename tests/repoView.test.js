@@ -1,4 +1,4 @@
-const RepoView = require("../github-api-wrapper/views/RepoView");
+const RepoView = require("../github-api-wrapper/lib/RepoView");
 
 describe("RepoView", () => {
     it("should list all repos without throwing", () => {
