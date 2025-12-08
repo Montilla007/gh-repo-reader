@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.6...v1.2.0) (2025-12-08)
+
+
+### Bug Fixes
+
+* update npm registry configuration in .npmrc ([0ba3a30](https://github.com/Montilla007/gh-repo-reader/commit/0ba3a303d5a4d9fa95dadc31628a44e8a7b1b0d0))
+
+
+### Features
+
+* initialize project with GitHub API wrapper and testing setup ([ed4bb47](https://github.com/Montilla007/gh-repo-reader/commit/ed4bb4703a8311a823477d6e07efb63235ad15f8))
+
 ## [1.1.6](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.5...v1.1.6) (2025-12-07)
 
 
