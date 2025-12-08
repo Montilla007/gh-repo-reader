@@ -1,4 +1,4 @@
-const GitHubClient = require("../models/GithubClient");
+const GitHubClient = require("../github-api-wrapper/models/GithubClient");
 
 describe("GitHubClient", () => {
     it("should fetch repos for a valid user", async () => {

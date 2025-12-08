@@ -1,4 +1,4 @@
-const RepoController = require("../Controllers/RepoController");
+const RepoController = require("../github-api-wrapper/Controllers/RepoController");
 
 const mockRepos = [
     { name: "B", stargazers_count: 2, updated_at: "2025-01-01T00:00:00Z" },
