@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Montilla007/gh-repo-reader/compare/v1.2.0...v1.3.0) (2025-12-08)
+
+
+### Features
+
+* restructure GitHub API wrapper with new client, controller, and view modules ([200fede](https://github.com/Montilla007/gh-repo-reader/commit/200fede399d07d2fcc8c4871a11a0d605cb144a2))
+
 # [1.2.0](https://github.com/Montilla007/gh-repo-reader/compare/v1.1.6...v1.2.0) (2025-12-08)
 
 
