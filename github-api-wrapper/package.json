@@ -1,6 +1,6 @@
 {
   "name": "gh-repo-reader",
-  "version": "1.1.6",
+  "version": "1.5.1",
   "description": "A minimal GitHub repository reader with MVC architecture",
   "main": "index.js",
   "type": "commonjs",

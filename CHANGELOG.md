@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/Montilla007/gh-repo-reader/compare/v1.5.0...v1.5.1) (2025-12-09)
+
+
+### Bug Fixes
+
+* correct successCmd to prepareCmd in .releaserc.json ([e456a04](https://github.com/Montilla007/gh-repo-reader/commit/e456a0428612b74765e8127ffc9166f17bdb7ee6))
+
 # [1.5.0](https://github.com/Montilla007/gh-repo-reader/compare/v1.4.1...v1.5.0) (2025-12-09)
 
 
