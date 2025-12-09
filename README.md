@@ -1,6 +1,6 @@
 # gh-repo-reader
 
-A simple GitHub API wrapper to fetch repositories and README files for any GitHub user.
+A simple GitHub API wrapper to fetch repositories information for any GitHub user.
 
 ## Installation
 ```bash
