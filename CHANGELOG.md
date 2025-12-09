@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/Montilla007/gh-repo-reader/compare/v1.4.0...v1.4.1) (2025-12-09)
+
+
+### Bug Fixes
+
+* add script to update github-api-wrapper version during releases ([2a3ddba](https://github.com/Montilla007/gh-repo-reader/commit/2a3ddba6e603af1cefb07fa4120a9ab14e29304f))
+
 # [1.4.0](https://github.com/Montilla007/gh-repo-reader/compare/v1.3.0...v1.4.0) (2025-12-09)
 
 
