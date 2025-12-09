@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Montilla007/gh-repo-reader/compare/v1.3.0...v1.4.0) (2025-12-09)
+
+
+### Features
+
+* add new query methods and image retrieval to RepoController ([6e80539](https://github.com/Montilla007/gh-repo-reader/commit/6e80539ce304fffcfd77aa68603dd9cd1e94212f))
+
 # [1.3.0](https://github.com/Montilla007/gh-repo-reader/compare/v1.2.0...v1.3.0) (2025-12-08)
 
 
