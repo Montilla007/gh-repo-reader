@@ -19,6 +19,16 @@ module.exports = {
     sortByStars: RepoController.sortByStars,
     filterByMinStars: RepoController.filterByMinStars,
 
+    // Query methods
+    getByName: RepoController.getByName,
+    searchByDescription: RepoController.searchByDescription,
+    filterByLanguage: RepoController.filterByLanguage,
+    latestUpdated: RepoController.latestUpdated,
+    updatedWithinDays: RepoController.updatedWithinDays,
+    topByStars: RepoController.topByStars,
+    summarize: RepoController.summarize,
+    getImages: RepoController.getImages,
+
     // Optional: CLI display
     view: RepoView
 };
