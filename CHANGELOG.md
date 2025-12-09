@@ -1,3 +1,15 @@
+# [1.5.0](https://github.com/Montilla007/gh-repo-reader/compare/v1.4.1...v1.5.0) (2025-12-09)
+
+
+### Bug Fixes
+
+* add successCmd to @semantic-release/git configuration ([81b2532](https://github.com/Montilla007/gh-repo-reader/commit/81b25321129156afe64e12eeb7b3d5fc982f01b9))
+
+
+### Features
+
+* test release ([bc09771](https://github.com/Montilla007/gh-repo-reader/commit/bc0977155136d5ef0f8ccb7bd81612aad869a9a5))
+
 ## [1.4.1](https://github.com/Montilla007/gh-repo-reader/compare/v1.4.0...v1.4.1) (2025-12-09)
 
 
